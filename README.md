@@ -15,7 +15,9 @@ Self-supervised Learning: Much of generative AI relies on self-supervised learni
 Autoregression: Models generate sequences (e.g., text) by predicting the next element based on the previous ones.
 
 ## 2 Generative AI Architectures 
+
 ![image](https://github.com/user-attachments/assets/4abca7e2-d2f8-4e5e-917d-6bbbc25aa128)
+
 Generative AI is powered by advanced architectures, the most notable being transformers.
 Transformers:
 Introduced by Vaswani et al. in the 2017 paper “Attention is All You Need”, the transformer architecture revolutionized natural language processing by using self-attention mechanisms.
@@ -31,7 +33,9 @@ BERT (Bidirectional Encoder Representations from Transformers): Encoder-only arc
 T5, BART, PaLM, LLaMA: Hybrid or improved models for various generative tasks.
 
 ## 3 Applications of Generative AI
+
 ![image](https://github.com/user-attachments/assets/dabdd791-4bad-4158-a603-683518c13da3)
+
 ```
 Generative AI has widespread applications across different domains:
 Natural Language Processing (NLP):
@@ -54,7 +58,9 @@ Code Autocompletion: GitHub Copilot, Replit Ghostwriter.
 Automated Testing: Generate test cases based on code.
 ```
 ### Impact of Scaling in Large Language Models (LLMs)
+
 ![image](https://github.com/user-attachments/assets/e061635c-9824-4a99-8312-953130920ccd)
+
 Scaling Laws:
 Research shows that increasing model size (parameters), data, and computation leads to improved performance on a wide range of tasks. This is known as scaling laws.
 Key Impacts:
