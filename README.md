@@ -1,4 +1,5 @@
 # PROMPT-ENGINEERING- 1.	Comprehensive Report on the Fundamentals of Generative AI and Large Language Models (LLMs)
+
 ### Date:
 ### Reg No:212222220047
 
@@ -9,6 +10,7 @@ Develop a comprehensive report for the following exercises:
 3.	Generative AI applications.
 4.	Generative AI impact of scaling in LLMs.
 
+
 ## 1 Foundational Concepts of Generative AI
 Generative AI refers to a class of artificial intelligence systems that can generate new content—such as text, images, audio, or code—that resembles human-created content. Unlike discriminative models that classify or label input data, generative models learn the underlying patterns and distributions in the data to produce new, original outputs.
 Training Data: Generative AI models are trained on large datasets to learn the statistical properties of the data.
@@ -16,6 +18,7 @@ Latent Space: The model maps inputs into a high-dimensional space where patterns
 Probabilistic Modeling: Models estimate the probability distribution of data to generate plausible variations.
 Self-supervised Learning: Much of generative AI relies on self-supervised learning where models learn from raw data without human-labeled examples.
 Autoregression: Models generate sequences (e.g., text) by predicting the next element based on the previous ones.
+
 
 ## 2 Generative AI Architectures 
 ![439651280-25c2fa43-bc5d-4b28-99df-0221f2d2b5d9](https://github.com/user-attachments/assets/448786fe-ea0c-4d7d-bbf1-20d169c46a47)
