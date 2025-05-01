@@ -12,6 +12,7 @@ Develop a comprehensive report for the following exercises:
 
 
 ## 1 Foundational Concepts of Generative AI
+
 Generative AI refers to a class of artificial intelligence systems that can generate new content—such as text, images, audio, or code—that resembles human-created content. Unlike discriminative models that classify or label input data, generative models learn the underlying patterns and distributions in the data to produce new, original outputs.
 Training Data: Generative AI models are trained on large datasets to learn the statistical properties of the data.
 Latent Space: The model maps inputs into a high-dimensional space where patterns and features are encoded.
