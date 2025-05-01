@@ -18,7 +18,7 @@ Self-supervised Learning: Much of generative AI relies on self-supervised learni
 Autoregression: Models generate sequences (e.g., text) by predicting the next element based on the previous ones.
 
 ## 2 Generative AI Architectures 
-![image](https://github.com/user-attachments/assets/4abca7e2-d2f8-4e5e-917d-6bbbc25aa128)
+![439651280-25c2fa43-bc5d-4b28-99df-0221f2d2b5d9](https://github.com/user-attachments/assets/448786fe-ea0c-4d7d-bbf1-20d169c46a47)
 
 Generative AI is powered by advanced architectures, the most notable being transformers.
 Transformers:
@@ -35,8 +35,7 @@ BERT (Bidirectional Encoder Representations from Transformers): Encoder-only arc
 T5, BART, PaLM, LLaMA: Hybrid or improved models for various generative tasks.
 
 ## 3 Applications of Generative AI
-![image](https://github.com/user-attachments/assets/dabdd791-4bad-4158-a603-683518c13da3)
-
+![image](https://github.com/user-attachments/assets/1eb29704-ff0d-413e-ad68-fdaae312e434)
 ```
 Generative AI has widespread applications across different domains:
 Natural Language Processing (NLP):
@@ -103,6 +102,9 @@ Large Language Models (LLMs) are a type of generative AI specifically trained to
 They are built using deep learning techniques, especially transformer-based architectures, and trained on massive text datasets.
 
 ## 7 Architecture of LLMs 
+
+![llm-architecture-img-1](https://github.com/user-attachments/assets/a65c92f3-18e7-47e9-a089-f3e4e69a9cd4)
+
 The architecture of LLMs is predominantly based on transformers. A transformer consists of encoder and decoder blocks that use self-attention mechanisms to process input data. Key components of transformer architecture include:
 Self-Attention Mechanism: Allows the model to weigh the importance of different words in a sentence relative to each other.
 Multi-Head Attention: Enables the model to focus on different parts of the sentence simultaneously.
